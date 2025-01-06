@@ -70,13 +70,13 @@ public class Menu {
                         break;
                     case 6:
                         System.out.println("Saindo...");
-                        continuar = false;
+                        return;
                     default:
                         System.out.println("Opção inválida!");
                 }
             }
         }catch (InputMismatchException e){
-            System.out.println("Insira um número inteiro positivo!");
+            System.err.println("Insira um número inteiro positivo!");
         }
         sc.close();
     }
