@@ -1,6 +1,10 @@
-# Projetos da Faculdade
+# Projeto da Faculdade
 
 Repositório criado para publciar os projetos práticos feitos do curso de Engenharia de Software pela UniCesuamr.
+
+## Sobre o projeto
+
+Objetivo deste projeto era criar um CRUD para cadastro de clientes.
 
 ## Tecnologias utilizadas
 
